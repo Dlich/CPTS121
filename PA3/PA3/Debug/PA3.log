@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa3\pa3\main.c(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa3\pa3\main.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  equations.c
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa3\pa3\equations.c(6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa3\pa3\equations.c(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Generating Code...
+  PA3.vcxproj -> C:\Users\newuser\Desktop\College\CptS_121\cpts121\PA3\Debug\PA3.exe
+  PA3.vcxproj -> C:\Users\newuser\Desktop\College\CptS_121\cpts121\PA3\Debug\PA3.pdb (Full PDB)

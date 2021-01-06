@@ -1,0 +1,13 @@
+﻿  questions.c
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4031: second formal parameter list longer than the first list
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4028: formal parameter 1 different from declaration
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4142: 'strlen': benign redefinition of type
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(215): note: see declaration of 'strlen'
+  main.c
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4031: second formal parameter list longer than the first list
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4028: formal parameter 1 different from declaration
+c:\users\newuser\desktop\college\cpts_121\cpts121\pa8\pa8\questions.h(12): warning C4142: 'strlen': benign redefinition of type
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(215): note: see declaration of 'strlen'
+  Generating Code...
+  PA8.vcxproj -> C:\Users\newuser\Desktop\College\CptS_121\cpts121\PA8\Debug\PA8.exe
+  PA8.vcxproj -> C:\Users\newuser\Desktop\College\CptS_121\cpts121\PA8\Debug\PA8.pdb (Full PDB)
